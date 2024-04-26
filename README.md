@@ -1,5 +1,5 @@
 ### Hello am just a guy. 
 
-(Java,Kotlin) (Spring boot, Android studio)
-![Visitor Count](https://profile-counter.glitch.me/{eflexcode}/count.svg)
+(Java, Kotlin) (Spring boot, Android studio)
+```I am currently looking for a job (Spring boot)```
 
