@@ -1,5 +1,5 @@
 ### Hello am just a guy. 
 
-(Java, Kotlin) (Spring boot, Android studio)
+(Java, Kotlin, Golang) (Spring boot, Android studio, Fiber)
 ```I am currently looking for a job (Spring boot)(golang fiber)```
 
