@@ -2,7 +2,7 @@ Backend/Android native dev passionate about building secure and scalable systems
 
 
 - 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project
-- ⚡ Experience with Websocket, System design, microservices, Android Studio 
+- ⚡ Experience with Websocket, System design, microservices, RestAPI, Android Studio 
 
 <h4 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/eze-ifeanyi-7517b41a0/">Linkedin</a>
