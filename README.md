@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/eze-ifeanyi-7517b41a0/">Linkedin</a>
-<a href="mailto:ezelarry379@gmail.com.com?subject=Looking to employ you.&body=When would you be available for a meeting for quick intro">Email Me</a>
+<a href="mailto:ezelarry379@gmail.com.com?subject=Looking to employ you.&body=When would you be available for a meeting for a quick intro">Email Me</a>
 
 <p align="left">
 </p>
