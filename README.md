@@ -1,10 +1,13 @@
-<h3 align="center">Backend/Android native dev passionate about building secure and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives</h3>
+<h4 align="left">Backend/Android native dev passionate about building secure and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eflexcode&label=Profile%20views&color=0e75b6&style=flat" alt="eflexcode" /> </p>
 
-- 🔭 I’m currently working on **OmiVideo**
+- 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/eze-ifeanyi-7517b41a0/">Linkedin</a>
+<a href="mailto:ezelarry379@gmail.com.com?subject=Looking%20To%Employ&body=When would you be available for a meeting ">Email Us</a>
+
 <p align="left">
 </p>
 
