@@ -1,7 +1,7 @@
 Backend/Android native dev passionate about building secure and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives
 
 
-- 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project
+- 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project with golang chi framework
 - ⚡ Experience with Websocket, System design, microservices, RestAPI, Android Studio 
 
 <h4 align="left">Connect with me:</h3>
