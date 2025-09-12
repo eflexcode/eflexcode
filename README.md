@@ -71,8 +71,8 @@ Backend/Android native software engineer passionate about building secure and sc
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eflexcode&locale=en&hide_title=false&layout=compact&card_width=220&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
   
-<img src="https://streak-stats.demolab.com?user=eflexcode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=340&order=3" height="150" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=eflexcode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=330&order=3" height="150" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=eflexcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=220&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eflexcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=200&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
 </div>
