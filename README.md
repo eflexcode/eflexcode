@@ -7,6 +7,7 @@ Backend/Android native software engineer passionate about building secure and sc
 - 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project with golang chi framework
 - ⚡ Experience with Websocket, System design, microservices, RestAPI, Android Studio
 - 🤖 Find me on <a href="https://leetcode.com/u/Larrex/">LeetCode</a>
+- 📝 I write tech blog from time to time, find me <a href="https://medium.com/@ezelarry379">here</a>
 
 <h4 align="left">Connect with me:</h4>
 <div align="left">
