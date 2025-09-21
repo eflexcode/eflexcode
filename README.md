@@ -22,6 +22,10 @@ Backend/Android native software engineer passionate about building secure and sc
   <a href="mailto:ezelarry379@gmail.com.com?subject=Looking to employ you.&body=When would you be available for a meeting for a quick intro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+   </a>
+  <a href="https://medium.com/@ezelarry379" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
 </div>
 <p align="left">
 </p>
