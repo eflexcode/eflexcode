@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eflexcode.eflexcode&"  />
 </div>
-Backend/Android native software engineer passionate about building secure and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives
+Backend/Android native software engineer passionate about building secure, user-friendly, and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives
 
 
 - 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project with golang chi framework
