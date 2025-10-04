@@ -84,3 +84,9 @@ Backend/Android native software engineer passionate about building secure and sc
 <img src="https://github-readme-stats.vercel.app/api?username=eflexcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=180&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
 </div>
+
+<p></p>
+
+<h4 align="left">Music 👀🎧:</h4>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lsqzct473uav23lmzimzsxylsi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
