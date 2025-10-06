@@ -87,6 +87,6 @@ Backend/Android native software engineer passionate about building secure, user-
 
 <p></p>
 
-<h4 align="left">Music 👀🎧:</h4>
+<!-- <h4 align="left">Music 👀🎧:</h4> -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lsqzct473uav23lmzimzsxylsi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<!--  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lsqzct473uav23lmzimzsxylsi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
