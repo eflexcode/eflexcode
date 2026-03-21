@@ -4,7 +4,7 @@
 Backend-focused Software engineer passionate about building secure, user-friendly, and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives
 
 
-- 🔭 I’m currently working at **OmiVideo** as a Backend dev with java spring boot and **Nkata** as a side project with golang chi framework
+- 🔭 I’m currently working at **NONE** as a Backend dev with java spring boot and **WHttp** as a side project with golang chi framework
 - ⚡ Experience with Websocket, System design, microservices, RestAPI, Android Studio
 - 🤖 Find me on <a href="https://leetcode.com/u/Larrex/">LeetCode</a>
 - 📝 I write tech blog from time to time, find me <a href="https://medium.com/@ezelarry379">here</a>
