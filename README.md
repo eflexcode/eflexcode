@@ -10,7 +10,7 @@ Backend-focused Software engineer passionate about building secure, user-friendl
 - 📝 I write tech blog from time to time, find me <a href="https://medium.com/@ezelarry379">here</a>
 
 <h4 align="left">Connect with me:</h4>
-<div align="left">
+<div align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/eze-ifeanyi-7517b41a0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
