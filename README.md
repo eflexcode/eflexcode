@@ -3,7 +3,7 @@
 </div>
 Backend Software Engineer with 3+ years of experience designing, building, and maintaining scalable microservices using Java, Go, and cloud-native technologies. Experienced in developing high-throughput APIs, distributed systems, and reliable backend infrastructure with a strong focus on performance, security, and maintainability. Proficient in database design, message-driven architectures, and RESTful API development.
 
-Additionally, I have 3+ years of experience in native Android application development using both Kotlin and Java, building responsive, user-friendly mobile applications while following modern Android development best practices.
+Additionally, I have 4+ years of experience in native Android application development using both Kotlin and Java, building responsive, user-friendly mobile applications while following modern Android development best practices.
 
 
 
