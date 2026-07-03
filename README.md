@@ -8,9 +8,9 @@ Additionally, I have 3+ years of experience in native Android application develo
 
 
 - 🔭 I’m currently working at **NONE** as a Backend dev with java spring boot and **WHttp** as a side project with golang chi framework
-- ⚡ Experience with Websocket, System design, microservices, RestAPI, Android Studio
+- ⚡ Experience with WebSocket, System design, microservices, REST API, Android Studio
 - 🤖 Find me on <a href="https://leetcode.com/u/Larrex/">LeetCode</a>
-- 📝 I write tech blog from time to time, find me <a href="https://medium.com/@ezelarry379">here</a>
+- 📝 I write tech blogs from time to time; find me <a href="https://medium.com/@ezelarry379">here</a>
 
 <h4 align="left">Connect with me:</h4>
 <div align="left" style="display: flex; gap: 10px;">
@@ -90,6 +90,6 @@ Additionally, I have 3+ years of experience in native Android application develo
 
 <p></p>
 
-<!-- <h4 align="left">Music 👀🎧:</h4> -->
+<h4 align="left">Music 👀🎧:</h4> 
 
-<!--  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lsqzct473uav23lmzimzsxylsi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lsqzct473uav23lmzimzsxylsi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
