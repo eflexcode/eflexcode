@@ -1,7 +1,10 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eflexcode.eflexcode&"  />
 </div>
-Backend-focused Software engineer passionate about building secure, user-friendly, and scalable systems. Seeking to utilize my technical and problem-solving skills to implement high-quality software solutions that address real-world customer requirements. Looking forward to sharing, learning, and making a positive impact on the organization's objectives
+Backend Software Engineer with 3+ years of experience designing, building, and maintaining scalable microservices using Java, Go, and cloud-native technologies. Experienced in developing high-throughput APIs, distributed systems, and reliable backend infrastructure with a strong focus on performance, security, and maintainability. Proficient in database design, message-driven architectures, and RESTful API development.
+
+Additionally, I have 3+ years of experience in native Android application development using both Kotlin and Java, building responsive, user-friendly mobile applications while following modern Android development best practices.
+
 
 
 - 🔭 I’m currently working at **NONE** as a Backend dev with java spring boot and **WHttp** as a side project with golang chi framework
