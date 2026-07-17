@@ -8,7 +8,7 @@ Additionally, I have 4+ years of experience in native Android application develo
 
 
 - 🔭 I’m currently working at **NONE** as a Backend dev with java spring boot and **WHttp** as a side project with golang chi framework
-- ⚡ Experience with WebSocket, System design, microservices, REST API, Android Studio
+- ⚡ Experience with WebSocket, System design, microservices, REST API, gRPC, Android Studio
 - 🤖 Find me on <a href="https://leetcode.com/u/Larrex/">LeetCode</a>
 - 📝 I write tech blogs from time to time; find me <a href="https://medium.com/@ezelarry379">here</a>
 
