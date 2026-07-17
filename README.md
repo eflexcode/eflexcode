@@ -71,7 +71,10 @@ Additionally, I have 4+ years of experience in native Android application develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
 </div>
 
 <p></p>
